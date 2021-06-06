@@ -1,0 +1,15 @@
+# build artefacts
+dist/*
+
+# data definition files
+**/*.d.ts
+
+# 3rd party libs
+/src/libs/
+
+# custom definition files
+/src/types/
+
+# project infrastructure
+migrations
+knexfile.js
