@@ -4,7 +4,7 @@ A simple Node.js PDF service built with [RabbitMQ](https://www.rabbitmq.com) and
 
 <div align="center">
   <br>
-  <img src="https://i.ibb.co/kKhB6jj/pdf-service.png" alt="pdf-service" border="0">
+  <img src="pdf-service.png" alt="pdf-service" border="0">
   <br><br>
 </div>
 
